@@ -1,0 +1,52 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(251, 248, 248);
+}
+
+header {
+    background-color: rgb(42, 40, 40);
+    color: white; 
+    text-align: center; 
+    padding: 20px; 
+}
+
+
+header h1 {
+    font-size: 36px;
+}
+
+
+.content {
+    max-width: 800px;
+    padding: 10px;  
+    margin: 10px;
+    border-style:ridge; 
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: white;
+
+}
+
+
+.content h3 {
+    font-size: 24px; 
+}
+ul {
+    list-style: none;
+    padding: 0px;
+  }
+
+
+.custom-bullet-text {
+    font-size: large;
+    font-style: normal;
+    list-style: none; 
+    margin-left: 0; 
+    padding-left: 0; 
+}
+
+.content ul li {
+    margin-bottom: 10px; 
+}
